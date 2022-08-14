@@ -35,7 +35,7 @@ class InternetSpeedTwitterBot():
 
         #if they check for security
         # security = self.driver.find_element(By.NAME, 'text')
-        # security.send_keys("8188054355")
+        # security.send_keys("REDACTED")
         # self.driver.find_element(By.XPATH,'//*[@id="layers"]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div/div').click()
         # time.sleep(4)
         input_pass = self.driver.find_element(By.NAME,'password')
